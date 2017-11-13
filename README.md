@@ -1,3 +1,6 @@
+# Future maintenance and development of the project has been move to https://github.com/pymc-devs/resources/tree/master/BCM.
+
+
 # Bayesian Cognitive Modeling in PyMC3
 PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Practical Course](http://bayesmodels.com)
 
